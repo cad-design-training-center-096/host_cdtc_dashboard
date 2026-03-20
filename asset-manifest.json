@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cdtc_internal_dashboard/static/css/main.3cfe4430.css",
-    "main.js": "/cdtc_internal_dashboard/static/js/main.93c26edd.js",
+    "main.js": "/cdtc_internal_dashboard/static/js/main.d4338619.js",
     "static/js/453.92d80d59.chunk.js": "/cdtc_internal_dashboard/static/js/453.92d80d59.chunk.js",
     "static/media/1.png": "/cdtc_internal_dashboard/static/media/1.f52c52fb04fd6ea6fe86.png",
     "static/media/2.png": "/cdtc_internal_dashboard/static/media/2.e6325a2490e57dab8aea.png",
@@ -15,11 +15,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cdtc_internal_dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/cdtc_internal_dashboard/index.html",
     "main.3cfe4430.css.map": "/cdtc_internal_dashboard/static/css/main.3cfe4430.css.map",
-    "main.93c26edd.js.map": "/cdtc_internal_dashboard/static/js/main.93c26edd.js.map",
+    "main.d4338619.js.map": "/cdtc_internal_dashboard/static/js/main.d4338619.js.map",
     "453.92d80d59.chunk.js.map": "/cdtc_internal_dashboard/static/js/453.92d80d59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cfe4430.css",
-    "static/js/main.93c26edd.js"
+    "static/js/main.d4338619.js"
   ]
 }
