@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/cdtc_internal_dashboard/static/css/main.e43d493b.css",
-    "main.js": "/cdtc_internal_dashboard/static/js/main.13f5a98d.js",
+    "main.js": "/cdtc_internal_dashboard/static/js/main.a6544f01.js",
     "static/js/453.5ef462fd.chunk.js": "/cdtc_internal_dashboard/static/js/453.5ef462fd.chunk.js",
+    "static/media/CDTC official logo.png": "/cdtc_internal_dashboard/static/media/CDTC official logo.9424090c08c5e85ed6bc.png",
     "static/media/1.png": "/cdtc_internal_dashboard/static/media/1.f52c52fb04fd6ea6fe86.png",
     "static/media/2.png": "/cdtc_internal_dashboard/static/media/2.e6325a2490e57dab8aea.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/cdtc_internal_dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/4.png": "/cdtc_internal_dashboard/static/media/4.187357442eda0965ec67.png",
     "static/media/3.png": "/cdtc_internal_dashboard/static/media/3.560df5cb046ee96e8973.png",
-    "static/media/CDTC official logo.png": "/cdtc_internal_dashboard/static/media/CDTC official logo.78caa61b5f53729c9ab7.png",
     "static/media/fontawesome-webfont.eot": "/cdtc_internal_dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/cdtc_internal_dashboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/cdtc_internal_dashboard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cdtc_internal_dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/cdtc_internal_dashboard/index.html",
     "main.e43d493b.css.map": "/cdtc_internal_dashboard/static/css/main.e43d493b.css.map",
-    "main.13f5a98d.js.map": "/cdtc_internal_dashboard/static/js/main.13f5a98d.js.map",
+    "main.a6544f01.js.map": "/cdtc_internal_dashboard/static/js/main.a6544f01.js.map",
     "453.5ef462fd.chunk.js.map": "/cdtc_internal_dashboard/static/js/453.5ef462fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e43d493b.css",
-    "static/js/main.13f5a98d.js"
+    "static/js/main.a6544f01.js"
   ]
 }
